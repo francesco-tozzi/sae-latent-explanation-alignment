@@ -42,6 +42,6 @@ Per eseguire il progetto, lancia gli script Python nel loro ordine numerico (da 
 **AVVISO IMPORTANTE SUI FILE DI OUTPUT:**
 Le cartelle `results` degli step 2, 3 e 4 sono state caricate vuote per via dei limiti di peso imposti da GitHub. 
 
-Come descritto nel paper, alcuni file pesanti (ad esempio la cartella con le parti della matrice di similarità) sono disponibili su richiesta agli autori[cite: 10].
+Come indicato nel paper, il file pesante con le parti della matrice di similarità è disponibile su richiesta agli autori.
 
 Tuttavia, **il risultato finale dello Step 5 (la dashboard interattiva HTML) è stato caricato** nella cartella `results` e può essere consultato liberamente senza dover far girare l'intera pipeline.
