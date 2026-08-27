@@ -7,7 +7,7 @@ Il progetto mira a esplorare l'organizzazione dello spazio latente degli Sparse 
 Nello specifico, questa pipeline valuta se e in che misura la **vicinanza geometrica** (nello spazio latente del SAE) tra i vari concetti corrisponda a una **coerenza semantica** tra le spiegazioni in linguaggio naturale generate per quei concetti. 
 
 ## Perché è stato fatto (Il Contesto)
-Come illustrato nel paper *"Sparse Autoencoder Latents Are Locally Aligned with Their Explanations"*, gli sforzi attuali nella *Mechanistic Interpretability* si sono concentrati molto sui modelli in lingua inglese. L'obiettivo di questo lavoro è dimostrare che, anche per modelli in altre lingue (in questo caso il modello italiano Minerva-1B), esiste un allineamento locale: i *neighborhoods* (vicinati) nello spazio latente contengono concetti semanticamente decisamente più simili tra loro di quanto prevedrebbe una baseline casuale. 
+Come illustrato nel paper *"Sparse Autoencoder Latents Are Locally Aligned with Their Explanations"*, gli sforzi attuali nella *Mechanistic Interpretability* si sono concentrati molto sui modelli in lingua inglese. L'obiettivo di questo lavoro è dimostrare che, anche per modelli in altre lingue (in questo caso il modello italiano Minerva-1B), esiste un allineamento locale: i *neighborhoods* (vicinati) nello spazio latente contengono concetti semanticamente più simili tra loro di quanto prevedrebbe una baseline casuale. 
 
 ---
 
