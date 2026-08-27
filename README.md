@@ -44,4 +44,4 @@ Le cartelle `results` degli step 2, 3 e 4 sono state caricate vuote per via dei 
 
 Come indicato nel paper, il file pesante con le parti della matrice di similarità è disponibile su richiesta agli autori.
 
-Tuttavia, **il risultato finale dello Step 5 (la dashboard interattiva HTML) è stato caricato** nella cartella `[results](./5_qualitative_analysis/results)` e può essere consultato liberamente senza dover far girare l'intera pipeline.
+Tuttavia, **il risultato finale dello Step 5 (la dashboard interattiva HTML) è stato caricato** nella cartella [`results`](./5_qualitative_analysis/results) e può essere consultato liberamente senza dover far girare l'intera pipeline.
