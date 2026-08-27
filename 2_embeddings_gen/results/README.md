@@ -1,0 +1,5 @@
+### ATTENZIONE: DATI MANCANTI
+
+> **BISOGNA ESEGUIRE IL CODICE `2b_embeddings_gen.py` PER GENERARE IL FILE CHE CONTIENE TUTTI I SENTENCE EMBEDDINGS.**
+> 
+> *Il file non è stato caricato per via dei limiti di GitHub.*
