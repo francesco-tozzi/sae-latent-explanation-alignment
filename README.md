@@ -30,7 +30,7 @@ La repository è organizzata in modo rigorosamente sequenziale:
 ## Come eseguire il codice
 
 ### 1. Requisiti e Dati Iniziali
-**ATTENZIONE:** Il modello SAE e il dataset delle spiegazioni (sia quelle manuali che quelle generate da GPT-5) non sono inclusi nella repository[cite: 1]. Prima di avviare il codice, è necessario scaricarli da HuggingFace:
+**ATTENZIONE:** Il modello SAE e il dataset delle spiegazioni (sia quelle manuali che quelle generate da GPT-5) non sono inclusi nella repository. Prima di avviare il codice, è necessario scaricarli da HuggingFace:
 1. **SCARICA IL SAE**: [sae-Minerva-1B-32x](https://huggingface.co/alessandrobondielli/sae-Minerva-1B-32x)
 2. **SCARICA IL DATASET**: [EXPLAINITA-task1](https://huggingface.co/datasets/colinglab/EXPLAINITA-task1)
 
@@ -44,4 +44,4 @@ Le cartelle `results` degli step 2, 3 e 4 sono state caricate vuote per via dei 
 
 Come indicato nel paper, il file pesante con le parti della matrice di similarità è disponibile su richiesta agli autori.
 
-Tuttavia, **il risultato finale dello Step 5 (la dashboard interattiva HTML) è stato caricato** nella cartella `results` e può essere consultato liberamente senza dover far girare l'intera pipeline.
+Tuttavia, **il risultato finale dello Step 5 (la dashboard interattiva HTML) è stato caricato** nella cartella `[results](./5_qualitative_analysis/results)` e può essere consultato liberamente senza dover far girare l'intera pipeline.
