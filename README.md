@@ -23,7 +23,7 @@ La repository è organizzata in modo rigorosamente sequenziale:
 2. **Generazione Embeddings**: Pulizia del dataset ed estrazione degli embeddings delle spiegazioni.
 3. **Matrice di Similarità**: Creazione della mappatura e calcolo della *cosine similarity*.
 4. **Analisi Quantitativa**: Riduzione dimensionale con UMAP, calcolo dei K-Nearest Neighbors (K-NN) spaziali e relative metriche.
-5. **Dashboard Interattiva**: Generazione di una dashboard Plotly per l'esplorazione qualitativa.
+5. **Analisi Qualitativa**: Generazione di una dashboard interattiva con Plotly per l'esplorazione qualitativa.
 
 ---
 
